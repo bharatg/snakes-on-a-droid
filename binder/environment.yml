@@ -1,2 +1,6 @@
-cython
-kivy
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - cython
+  -kivy
